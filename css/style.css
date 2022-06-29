@@ -134,6 +134,15 @@ p {
   color: #f7c08a;
 }
 
+#navbar h1 a:hover {
+  background: #444;
+  color: #f7c08a;
+}
+
+.logo:hover {
+  background-color: #444;
+}
+
 /* showcase */
 #showcase {
   background: url("../img/showcase.jpg") no-repeat center center/cover;
