@@ -135,12 +135,7 @@ p {
 }
 
 #navbar h1 a:hover {
-  background: #444;
   color: #f7c08a;
-}
-
-.logo:hover {
-  background-color: #444;
 }
 
 /* showcase */
