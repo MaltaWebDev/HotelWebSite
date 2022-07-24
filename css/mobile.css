@@ -26,3 +26,14 @@
     float: none;
     width: 100%;
 }
+
+/* About page */
+#about-info .info-right, #about-info .info-left {
+    float: none;
+    width: 100%;
+  }
+  
+/* Contact */
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
