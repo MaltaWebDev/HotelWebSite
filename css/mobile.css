@@ -52,7 +52,11 @@
 
 /* About page h1 fix for small screens */
 @media screen and (max-width: 413px) {
-    #about-info .large-heading {
+    .large-heading {
         font-size: 30px;
+    }
+
+    #showcase .showcase-content h1 {
+        font-size: 50px;
     }
 }
